@@ -2,6 +2,8 @@
 
 Main files:
 
+**[:zap:](MY_V24-350)My currently running configuration setup (Euclid probe with Z-Compensation).**
+
 **[:bulb:](gcode_folder_share.txt)How to network share your gcode folder.**
 
 **[:bulb:](ADXL345-NANO.txt)Using an Arduino nano & ADXL345.**
@@ -15,4 +17,4 @@ Main files:
 **[:wrench:](Euclid)Portable Euclid probe macros with Z-Compensation.**
 
 <br><br>
-:zap: If you have any suggestions for a change, addition, or correction - please feel free to submit it [here](https://github.com/rkolbi/voron2.4/discussions/new?category=ideas). 
+:hear_no_evil::see_no_evil::speak_no_evil: If you have any suggestions for a change, addition, or correction - please feel free to submit it [here](https://github.com/rkolbi/voron2.4/discussions/new?category=ideas). 
